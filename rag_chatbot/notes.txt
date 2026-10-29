@@ -1,0 +1,5 @@
+Python is a simple and popular programming language. It is easy to read because its code looks close to plain English.
+Python is used for websites, automation, data science, and artificial intelligence. Beginners start with variables, loops, and functions.
+A function is a reusable block of code that runs only when you call it. Functions help you avoid repeating the same code.
+A loop repeats a block of code. A for loop goes through items one by one, and a while loop repeats while a condition is true.
+To build a chatbot, you split documents into small chunks, search the chunks for the question words, and answer using the best chunk.
